@@ -9,6 +9,7 @@ Windows 10 OS
 GitHub (https://github.com/)
 Git Bash
 GitHub Desktop
+Python + IDLE Shell 3.9.6
 Notepad++
 
 
