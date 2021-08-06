@@ -10,7 +10,6 @@ GitHub (https://github.com/)
 Git Bash
 GitHub Desktop
 Python + IDLE Shell 3.9.6
-Notepad++
 
 
 Installatiions
@@ -18,7 +17,8 @@ Installatiions
 GitHub Desktop (https://desktop.github.com/)
 Getting Started with GitHub (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
 Creating your first repository using GitHub Desktop (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
-Notepad++ (https://download.cnet.com/Notepad-32-bit/3000-2352_4-10327521.html)
+Python 3.9.6 (https://www.python.org/downloads/)
+
 
 
 Project Details
