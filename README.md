@@ -24,9 +24,17 @@ Python 3.9.6 (https://www.python.org/downloads/)
 Project Details
 
 
-Project 1 Placeholder - Description
-* Detail 1
-* Detail 2
+Nice or Mean Game - created text-based game called "Nice or Mean"
+* Practice utilizing practice using "if __name__ == "__main__"
+* Creating functions
+* Creating variables
+* Storing variables
+* Passing variables to functions
+* Utilizing "wildcards"
+* Utilizing "escape sequences"
+* Practice utilizing various methods (i.e., input(), print(), etc.)
+* Submitted: 8/19/2021
+* Re-submitted: 8/21/2021
 
 Project 2 Placeholder - Description
 * Detail 1
