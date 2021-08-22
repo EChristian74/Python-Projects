@@ -34,11 +34,15 @@ Nice or Mean Game - created text-based game called "Nice or Mean"
 * Utilizing "escape sequences"
 * Practice utilizing various methods (i.e., input(), print(), etc.)
 * Submitted: 8/19/2021
-* Re-submitted: 8/21/2021
+* Re-submitted: 8/20/2021
 
-Project 2 Placeholder - Description
-* Detail 1
-* Detail 2
+Data Submission Assignment - assignment combining use of Python with sqlite3
+* Create new database
+* Include integer increment
+* One column with value of STRING
+* Insert 10 rows of data
+* Call and print to console values in STRING column with same file extension
+* Submitted: 8/21/2021
 
 Project 3 Placeholder - Description
 * Detail 1
