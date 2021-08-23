@@ -36,11 +36,11 @@ Nice or Mean Game - created text-based game called "Nice or Mean"
 * Submitted: 8/19/2021
 * Re-submitted: 8/20/2021
 
-Data Submission Assignment - assignment combining use of Python with sqlite3
+Data Submission Assignment - assignment combining use of Python and sqlite3 to execute one-element tuple
 * Create new database
 * Include integer increment
 * One column with value of STRING
-* Insert 10 rows of data
+* Insert into column data value from a list that end with file extension of ".txt"
 * Call and print to console values in STRING column with same file extension
 * Submitted: 8/21/2021
 
