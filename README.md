@@ -44,6 +44,14 @@ Data Submission Assignment - assignment combining use of Python and sqlite3 to e
 * Call and print to console values in STRING column with same file extension
 * Submitted: 8/21/2021
 
+
+Inheritance Submission Assignment - assignment to practice development of a "parent" class and two "child" classes with unque attributes
+* Create two classes that inherit from another class
+* Create each child with two of their own attributes
+* Submitted: 8/23/2021
+
+Add comments throughout your Python explaining your code.
+
 Project 3 Placeholder - Description
 * Detail 1
 * Detail 2
