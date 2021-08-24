@@ -50,7 +50,12 @@ Inheritance Submission Assignment - assignment to practice development of a "par
 * Create each child with two of their own attributes
 * Submitted: 8/23/2021
 
-Add comments throughout your Python explaining your code.
+Class Challenge 
+* Created a class
+* Created an object
+* Assigned values to object properties using the __init__() function
+* Created a method in a class
+
 
 Project 3 Placeholder - Description
 * Detail 1
