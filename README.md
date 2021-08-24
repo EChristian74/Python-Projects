@@ -42,19 +42,23 @@ Data Submission Assignment - assignment combining use of Python and sqlite3 to e
 * One column with value of STRING
 * Insert into column data value from a list that end with file extension of ".txt"
 * Call and print to console values in STRING column with same file extension
+* Add comments throughout your Python explaining your code
 * Submitted: 8/21/2021
 
 
 Inheritance Submission Assignment - assignment to practice development of a "parent" class and two "child" classes with unque attributes
 * Create two classes that inherit from another class
 * Create each child with two of their own attributes
+* Add comments throughout your Python explaining your code
 * Submitted: 8/23/2021
 
-Class Challenge 
-* Created a class
-* Created an object
-* Assigned values to object properties using the __init__() function
-* Created a method in a class
+POLYMORPHISM SUBMISSION ASSIGNMENT
+* Create two classes that inherit from another class
+* Each child should have at least two of their own attributes
+* The parent class should have at least one method (function)
+* Both child classes should utilize polymorphism on the parent class method
+* Add comments throughout your Python explaining your code
+* Submitted 8/23/2021
 
 
 Project 3 Placeholder - Description
