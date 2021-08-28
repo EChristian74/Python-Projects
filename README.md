@@ -60,19 +60,21 @@ POLYMORPHISM SUBMISSION ASSIGNMENT
 * Add comments throughout your Python explaining your code
 * Submitted 8/23/2021
 
-
 ENCAPSULATION SUBMISSION ASSIGNMENT - Create a class that uses encapsulation. Requirements included:
 
-* Class should make use of a private attribute or function.
-* Class should make use of a protected attribute or function.
-* Created an object that makes use of protected and private.
-* Comment throughout your Python explaining your code.
+* Class should make use of a private attribute or function
+* Class should make use of a protected attribute or function
+* Created an object that makes use of protected and private
+* Comment throughout your Python explaining code
 * Submitted 8/28/2021
 
+ABSTRACTION SUBMISSION ASSIGNMENT - Create a class that utilizes the concept of abstraction
 
-
-
-
+* Class contains at least one abstract method and one regular method
+* Created a child class that defines the implementation of its parents abstract method
+* Created an object that utilizes both the parent and child methods.
+* Add comments throughout Python explaining code
+* Submitted 8/28/2021
 
 Authors Eric C. Boland
 
