@@ -61,9 +61,14 @@ POLYMORPHISM SUBMISSION ASSIGNMENT
 * Submitted 8/23/2021
 
 
-Project 3 Placeholder - Description
-* Detail 1
-* Detail 2
+ENCAPSULATION SUBMISSION ASSIGNMENT - Create a class that uses encapsulation. Requirements included:
+
+* Class should make use of a private attribute or function.
+* Class should make use of a protected attribute or function.
+* Created an object that makes use of protected and private.
+* Comment throughout your Python explaining your code.
+* Submitted 8/28/2021
+
 
 
 
