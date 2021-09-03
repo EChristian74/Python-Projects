@@ -33,6 +33,7 @@ Nice or Mean Game - created text-based game called "Nice or Mean"
 * Utilizing "wildcards"
 * Utilizing "escape sequences"
 * Practice utilizing various methods (i.e., input(), print(), etc.)
+* Added comments explaining code
 * Submitted: 8/19/2021
 * Re-submitted: 8/20/2021
 
@@ -42,14 +43,14 @@ Data Submission Assignment - assignment combining use of Python and sqlite3 to e
 * One column with value of STRING
 * Insert into column data value from a list that end with file extension of ".txt"
 * Call and print to console values in STRING column with same file extension
-* Add comments throughout your Python explaining your code
+* Added comments explaining code
 * Submitted: 8/21/2021
 
 
 Inheritance Submission Assignment - assignment to practice development of a "parent" class and two "child" classes with unque attributes
 * Create two classes that inherit from another class
 * Create each child with two of their own attributes
-* Add comments throughout your Python explaining your code
+* Added comments explaining code
 * Submitted: 8/23/2021
 
 POLYMORPHISM SUBMISSION ASSIGNMENT
@@ -57,7 +58,7 @@ POLYMORPHISM SUBMISSION ASSIGNMENT
 * Each child should have at least two of their own attributes
 * The parent class should have at least one method (function)
 * Both child classes should utilize polymorphism on the parent class method
-* Add comments throughout your Python explaining your code
+* Added comments explaining code
 * Submitted 8/23/2021
 
 ENCAPSULATION SUBMISSION ASSIGNMENT - Create a class that uses encapsulation. Requirements included:
@@ -65,7 +66,7 @@ ENCAPSULATION SUBMISSION ASSIGNMENT - Create a class that uses encapsulation. Re
 * Class should make use of a private attribute or function
 * Class should make use of a protected attribute or function
 * Created an object that makes use of protected and private
-* Comment throughout your Python explaining code
+* Added comments explaining code
 * Submitted 8/28/2021
 
 ABSTRACTION SUBMISSION ASSIGNMENT - Create a class that utilizes the concept of abstraction
@@ -73,8 +74,23 @@ ABSTRACTION SUBMISSION ASSIGNMENT - Create a class that utilizes the concept of 
 * Class contains at least one abstract method and one regular method
 * Created a child class that defines the implementation of its parents abstract method
 * Created an object that utilizes both the parent and child methods.
-* Add comments throughout Python explaining code
+* Added comments explaining code
 * Submitted 8/28/2021
+
+
+WEB PAGE GENERATOR SUBMISSION ASSIGNMENT 1 
+* Created simple web page via writing a simple Python script that will automatically create and write to an .html file
+* Program should also print to webbrowser
+* Added comments explaining code
+* Submitted 9/3/2021
+
+WEB PAGE GENERATOR SUBMISSION ASSIGNMENT 2
+* Created GUI with Tkinter that will enable the users to set the body text for a newly-created web page
+* Included a control in the GUI that initiates the process of making the new web page
+* GUI then opens the html file in a new tab within the webbrowser that displayed newly added user text
+* Added comments explaining code
+* Submitted 9/3/2021
+
 
 Authors Eric C. Boland
 
