@@ -46,7 +46,6 @@ Data Submission Assignment - assignment combining use of Python and sqlite3 to e
 * Added comments explaining code
 * Submitted: 8/21/2021
 
-
 Inheritance Submission Assignment - assignment to practice development of a "parent" class and two "child" classes with unque attributes
 * Create two classes that inherit from another class
 * Create each child with two of their own attributes
@@ -77,7 +76,6 @@ ABSTRACTION SUBMISSION ASSIGNMENT - Create a class that utilizes the concept of 
 * Added comments explaining code
 * Submitted 8/28/2021
 
-
 WEB PAGE GENERATOR SUBMISSION ASSIGNMENT 1 
 * Created simple web page via writing a simple Python script that will automatically create and write to an .html file
 * Program should also print to webbrowser
@@ -90,6 +88,35 @@ WEB PAGE GENERATOR SUBMISSION ASSIGNMENT 2
 * GUI then opens the html file in a new tab within the webbrowser that displayed newly added user text
 * Added comments explaining code
 * Submitted 9/3/2021
+
+FILE TRANSFER ASSIGNMENT 1 
+* Created two new folders on desktop labeled Folder A and Folder B
+* Created four .txt files, each with some meaningless content such as “this is file 1” etc., in Folder A
+* Created a script that will transfer the files from Folder A to Folder B 
+* Added comments explaining code
+* Submitted 9/4/2021
+
+FILE TRANSFER ASSIGNMENT 2
+* Created two new folders on desktop labeled Folder A and Folder B
+* Populated folder A with a mix of files modified in the past 24 hours and other files with older modified dates
+* Created script that would enable an automated program that could be manually run to perform the transfer
+* Added comments explaining code
+* Submitted 9/4/2021
+
+FILE TRANSFER ASSIGNMENT 3
+* Created two new folders on desktop labeled Folder A and Folder B
+* Populated folder A with a mix of files modified in the past 24 hours and other files with older modified dates
+* Created tkinter/Python GUI that allows for Browse and population of source path to entry field,
+  Browse and population of destination path to entry field, and button widget to perform 'check file' audit
+  and execution of file transfer
+* Created script that would enable the above, but also printed source and destination directory file statistics
+  to the console
+* Added comments explaining code
+* Submitted 9/4/2021
+
+
+
+
 
 
 Authors Eric C. Boland
