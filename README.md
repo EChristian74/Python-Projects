@@ -10,6 +10,7 @@ GitHub (https://github.com/)
 Git Bash
 GitHub Desktop
 Python 3.9.6 (Shell and IDLE)
+Pycharm 2021.2.1
 
 
 Installatiions
@@ -18,7 +19,7 @@ GitHub Desktop (https://desktop.github.com/)
 Getting Started with GitHub (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
 Creating your first repository using GitHub Desktop (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
 Python 3.9.6 (https://www.python.org/downloads/)
-
+Pycharm 2021.2.1 (https://www.jetbrains.com/pycharm/download/#section=windows)
 
 
 Project Details
@@ -114,10 +115,20 @@ FILE TRANSFER ASSIGNMENT 3
 * Added comments explaining code
 * Submitted 9/4/2021
 
-
-
-
-
+DJANGO PART ONE AND TWO CHALLENGE SUBMISSION ASSIGNMENT
+* Utilized PyCharm terminal
+* Created new virtual environment project in PyCharm named "DjangoUniversity"
+* Set up database and migrated code to database
+* Created superuser within manage.py to log in as an admin
+* Created new app within project called "classApp"
+* Created course model with the attributes title, course number, instructor name, and duration
+* Added and registered model to the admin.py
+* Created three objects and assign their attribute values
+* Added classApp to Main Projecct settings.py
+* Made migration and migrated three objects created
+* Verified objects displayed to the admin page
+* Verified that objects may be added, modified, and deleted
+* Added comments explaining code
 
 Authors Eric C. Boland
 
