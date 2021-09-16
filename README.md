@@ -124,7 +124,7 @@ DJANGO PART ONE AND TWO CHALLENGE SUBMISSION ASSIGNMENT
 * Created course model with the attributes title, course number, instructor name, and duration
 * Added and registered model to the admin.py
 * Created three objects and assign their attribute values
-* Added classApp to Main Projecct settings.py
+* Added classApp to Main Project settings.py
 * Made migration and migrated three objects created
 * Verified objects displayed to the admin page
 * Verified that objects may be added, modified, and deleted
