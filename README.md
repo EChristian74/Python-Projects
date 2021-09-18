@@ -136,9 +136,9 @@ DJANGO CHECKBOOK CHALLENGE SUBMISSION ASSIGNMENT
 * Created, activate, and perform necessary module nstallations for new project in PyCharm and name it “DjangoUniversity”
 * Created app named "Checkbook"
 * Final application included functional drop menu
-* Final application included functional hyperlinks and correllating views for Home, Create New Transaction, and Add New Transaction
+* Final application included functional hyperlinks and correlating views for Home, Create New Transaction, and Add New Transaction
 * Following addition of new transactions, application then opened to transaction summary view
-* Added comments explaining code
+
 
 Authors Eric C. Boland
 
