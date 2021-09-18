@@ -5,21 +5,21 @@ The purpose of this repository for display of Python projects that I completed d
 
 Dependencies
 
-Windows 10 OS
-GitHub (https://github.com/)
-Git Bash
-GitHub Desktop
-Python 3.9.6 (Shell and IDLE)
-Pycharm 2021.2.1
+* Windows 10 OS
+* GitHub (https://github.com/)
+* Git Bash
+* GitHub Desktop
+* Python 3.9.6 (Shell and IDLE)
+* Pycharm 2021.2.1
 
 
 Installatiions
 
-GitHub Desktop (https://desktop.github.com/)
-Getting Started with GitHub (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
-Creating your first repository using GitHub Desktop (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
-Python 3.9.6 (https://www.python.org/downloads/)
-Pycharm 2021.2.1 (https://www.jetbrains.com/pycharm/download/#section=windows)
+* GitHub Desktop (https://desktop.github.com/)
+* Getting Started with GitHub (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+* Creating your first repository using GitHub Desktop (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
+* Python 3.9.6 (https://www.python.org/downloads/)
+* Pycharm 2021.2.1 (https://www.jetbrains.com/pycharm/download/#section=windows)
 
 
 Project Details
