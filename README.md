@@ -130,6 +130,16 @@ DJANGO PART ONE AND TWO CHALLENGE SUBMISSION ASSIGNMENT
 * Verified that objects may be added, modified, and deleted
 * Added comments explaining code
 
+
+DJANGO CHECKBOOK CHALLENGE SUBMISSION ASSIGNMENT
+* Downloaded provided static and template files
+* Created, activate, and perform necessary module nstallations for new project in PyCharm and name it “DjangoUniversity”
+* Created app named "Checkbook"
+* Final application included functional drop menu
+* Final application included functional hyperlinks and correllating views for Home, Create New Transaction, and Add New Transaction
+* Following addition of new transactions, application then opened to transaction summary view
+* Added comments explaining code
+
 Authors Eric C. Boland
 
 GitHub:@EChristian74
