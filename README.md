@@ -13,6 +13,7 @@ The purpose of this repository for display of Python projects that I completed d
 
 ## Details by Assignment
 
+
 ### Nice or Mean Game - text-based game called "Nice or Mean":
 
 * Practice utilizing practice using "if __name__ == "__main__"
