@@ -144,7 +144,7 @@ The purpose of this repository for display of Python projects that I completed d
 * Following addition of new transactions, application then opened to transaction summary view
 
 
-## Author Eric C. Boland
+## Author: Eric C. Boland
 
 ### Links:
 
