@@ -3,29 +3,23 @@
 The purpose of this repository for display of Python projects that I completed during my attendance at The Tech Academy.
 
 
-Dependencies
+## Dependencies
 
-* Windows 10 OS
-* GitHub (https://github.com/)
-* Git Bash
-* GitHub Desktop
-* Python 3.9.6 (Shell and IDLE)
-* Pycharm 2021.2.1
-
-
-Installatiions
-
-* GitHub Desktop (https://desktop.github.com/)
-* Getting Started with GitHub (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
-* Creating your first repository using GitHub Desktop (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
-* Python 3.9.6 (https://www.python.org/downloads/)
-* Pycharm 2021.2.1 (https://www.jetbrains.com/pycharm/download/#section=windows)
+* [Windows 10 OS](https://www.microsoft.com/en-us/software-download/)
+* [Python 3.9 64-Bit](https://)
+* [HTML5](https://www.microsoft.com/en-us/p/html5-css-php-javascript/9nblggh08ltm?activetab=pivot:overviewtab)
+* [CSS](https://www.microsoft.com/en-us/software-download/)
+* [JavaScript](https://www.microsoft.com/en-us/software-download/)
+* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/)
+* [PIP](https://pip.pypa.io/en/stable/installation/)
+* [Pycharm Community Edition 2021.2.1](https://)
+* [Django Rest Framework 3.11.0](https://)
 
 
-Project Details
+## Details by Assignment
 
+### Nice or Mean Game - text-based game called "Nice or Mean":
 
-Nice or Mean Game - created text-based game called "Nice or Mean"
 * Practice utilizing practice using "if __name__ == "__main__"
 * Creating functions
 * Creating variables
@@ -38,7 +32,9 @@ Nice or Mean Game - created text-based game called "Nice or Mean"
 * Submitted: 8/19/2021
 * Re-submitted: 8/20/2021
 
-Data Submission Assignment - assignment combining use of Python and sqlite3 to execute one-element tuple
+
+### Data Submission Assignment - assignment combining use of Python and sqlite3 to execute one-element tuple:
+
 * Create new database
 * Include integer increment
 * One column with value of STRING
@@ -47,13 +43,16 @@ Data Submission Assignment - assignment combining use of Python and sqlite3 to e
 * Added comments explaining code
 * Submitted: 8/21/2021
 
-Inheritance Submission Assignment - assignment to practice development of a "parent" class and two "child" classes with unque attributes
+### Inheritance Submission Assignment - assignment to practice development of a "parent" class and two "child" classes with unque attributes:
+
 * Create two classes that inherit from another class
 * Create each child with two of their own attributes
 * Added comments explaining code
 * Submitted: 8/23/2021
 
-POLYMORPHISM SUBMISSION ASSIGNMENT
+
+### Polymorphism: 
+
 * Create two classes that inherit from another class
 * Each child should have at least two of their own attributes
 * The parent class should have at least one method (function)
@@ -61,7 +60,8 @@ POLYMORPHISM SUBMISSION ASSIGNMENT
 * Added comments explaining code
 * Submitted 8/23/2021
 
-ENCAPSULATION SUBMISSION ASSIGNMENT - Create a class that uses encapsulation. Requirements included:
+
+### Encapsulation - create a class that uses encapsulation. Requirements included:
 
 * Class should make use of a private attribute or function
 * Class should make use of a protected attribute or function
@@ -69,7 +69,8 @@ ENCAPSULATION SUBMISSION ASSIGNMENT - Create a class that uses encapsulation. Re
 * Added comments explaining code
 * Submitted 8/28/2021
 
-ABSTRACTION SUBMISSION ASSIGNMENT - Create a class that utilizes the concept of abstraction
+
+### Abstraction - create a class that utilizes the concept of abstraction:
 
 * Class contains at least one abstract method and one regular method
 * Created a child class that defines the implementation of its parents abstract method
@@ -77,34 +78,39 @@ ABSTRACTION SUBMISSION ASSIGNMENT - Create a class that utilizes the concept of 
 * Added comments explaining code
 * Submitted 8/28/2021
 
-WEB PAGE GENERATOR SUBMISSION ASSIGNMENT 1 
+
+### Web Page Generator 1:
+
 * Created simple web page via writing a simple Python script that will automatically create and write to an .html file
 * Program should also print to webbrowser
 * Added comments explaining code
 * Submitted 9/3/2021
 
-WEB PAGE GENERATOR SUBMISSION ASSIGNMENT 2
+### Web Generator 2:
+
 * Created GUI with Tkinter that will enable the users to set the body text for a newly-created web page
 * Included a control in the GUI that initiates the process of making the new web page
 * GUI then opens the html file in a new tab within the webbrowser that displayed newly added user text
 * Added comments explaining code
 * Submitted 9/3/2021
 
-FILE TRANSFER ASSIGNMENT 1 
+
+### File Transfer 1:
+
 * Created two new folders on desktop labeled Folder A and Folder B
 * Created four .txt files, each with some meaningless content such as “this is file 1” etc., in Folder A
 * Created a script that will transfer the files from Folder A to Folder B 
 * Added comments explaining code
 * Submitted 9/4/2021
 
-FILE TRANSFER ASSIGNMENT 2
+### File Transfer 2:
 * Created two new folders on desktop labeled Folder A and Folder B
 * Populated folder A with a mix of files modified in the past 24 hours and other files with older modified dates
 * Created script that would enable an automated program that could be manually run to perform the transfer
 * Added comments explaining code
 * Submitted 9/4/2021
 
-FILE TRANSFER ASSIGNMENT 3
+### File Transfer 3:
 * Created two new folders on desktop labeled Folder A and Folder B
 * Populated folder A with a mix of files modified in the past 24 hours and other files with older modified dates
 * Created tkinter/Python GUI that allows for Browse and population of source path to entry field,
@@ -115,7 +121,9 @@ FILE TRANSFER ASSIGNMENT 3
 * Added comments explaining code
 * Submitted 9/4/2021
 
-DJANGO PART ONE AND TWO CHALLENGE SUBMISSION ASSIGNMENT
+
+### Django Part One and Two Challenge: 
+
 * Utilized PyCharm terminal
 * Created new virtual environment project in PyCharm named "DjangoUniversity"
 * Set up database and migrated code to database
@@ -131,7 +139,7 @@ DJANGO PART ONE AND TWO CHALLENGE SUBMISSION ASSIGNMENT
 * Added comments explaining code
 
 
-DJANGO CHECKBOOK CHALLENGE SUBMISSION ASSIGNMENT
+### Django Checkbook Challenge: 
 * Downloaded provided static and template files
 * Created, activate, and perform necessary module nstallations for new project in PyCharm and name it “DjangoUniversity”
 * Created app named "Checkbook"
@@ -140,13 +148,13 @@ DJANGO CHECKBOOK CHALLENGE SUBMISSION ASSIGNMENT
 * Following addition of new transactions, application then opened to transaction summary view
 
 
-Authors Eric C. Boland
+## Author Eric C. Boland
 
-GitHub:@EChristian74
-LinkedIn:https://www.linkedin.com/in/christianmethodical/
-Email:christianmethodical@gmail.com
-Version History
+### Links:
 
-Mutliple uploads for various incremental assignments.
-No reference to specific versions due to repository is comprised of multiple assignments.
+* GitHub: <https://github.com/EChristian74>
+* LinkedIn: <https://www.linkedin.com/in/christianmethodical/>
+* Email: <christianmethodical@gmail.com>
+
+Jump to: [Page Top](#python-projects)
 
