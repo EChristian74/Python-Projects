@@ -7,10 +7,6 @@ The purpose of this repository for display of Python projects that I completed d
 
 * [Windows 10 OS](https://www.microsoft.com/en-us/software-download/)
 * [Python 3.9 64-Bit](https://)
-* [HTML5](https://www.microsoft.com/en-us/p/html5-css-php-javascript/9nblggh08ltm?activetab=pivot:overviewtab)
-* [CSS](https://www.microsoft.com/en-us/software-download/)
-* [JavaScript](https://www.microsoft.com/en-us/software-download/)
-* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/)
 * [PIP](https://pip.pypa.io/en/stable/installation/)
 * [Pycharm Community Edition 2021.2.1](https://)
 * [Django Rest Framework 3.11.0](https://)
